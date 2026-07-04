@@ -1,0 +1,6 @@
+{
+  "name": "MealMate AI",
+  "description": "Personalized Meals. Smarter Days. Beautiful AI-powered meal planner that generates breakfasts, lunches, dinners, snack suggestions, grocery lists, budget feasibility, and substitutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
